@@ -24,12 +24,14 @@ OPencvcourse/                     <<< ----------------------------------------|
 
 
 └── imagesfolder/
-
+   
     └── input.jpg
     
     └── Qr.png
-  
-    
+
+  --
+    ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/bc9de0ba-d8ec-49e7-8f1d-162d773f0da3)
+
 
 # OpenCV C++ Applications
 
@@ -74,12 +76,14 @@ The `qrcode_reader.cpp` application detects and decodes QR codes in an input ima
 To use the QR code detection application:
 1. Compile and run the code using a C++ compiler with OpenCV installed.
 2. Output.
+   
  ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/faf16852-dc4b-403f-8d69-6630008ad30e)
 
+![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/d493baff-9c66-4943-a85f-b115d93ad6f9)
 
 
 
-## Docker
+## Dockerized Appilication
  Rebuild the Docker image:
  docker build -t opencv_cpp_app .
  
