@@ -1,4 +1,4 @@
-* Production level Project structure in  my local system  .        -> To see docker way implementation follow this link  [Docker](#docker)
+* Production level Project structure in  my local system  .        ---> To see docker way implementation follow this link  [Docker](#Dockerized-Appilication)
   
                                            
                                            
@@ -79,7 +79,7 @@ To use the QR code detection application:
    
  ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/faf16852-dc4b-403f-8d69-6630008ad30e)
 
-![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/d493baff-9c66-4943-a85f-b115d93ad6f9)
+ ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/d493baff-9c66-4943-a85f-b115d93ad6f9)
 
 
 
