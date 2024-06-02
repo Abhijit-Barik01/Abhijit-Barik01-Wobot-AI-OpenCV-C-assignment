@@ -84,11 +84,11 @@ To use the QR code detection application:
 
 
 ## Dockerized Appilication
- Rebuild the Docker image:
- docker build -t opencv_cpp_app .
- 
- Run the Docker container:
- docker run -v $(pwd)/images:/app/images -it opencv_cpp_app
+Pull this docker image from docker hub:
+docker pull avijit1963/wobotai12.cppopencv:latest
+
+Run docker container:
+docker run -it --rm -v $(pwd):/app avijit1963/wobotai12.cppopencv:latest /bin/bash
 
 
 
