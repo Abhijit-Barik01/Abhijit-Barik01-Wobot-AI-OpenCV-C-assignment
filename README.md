@@ -2,7 +2,8 @@
   
                                            
                                            
-OPencvcourse/                     <<< ----------------------------------------|                                                   
+OPencvcourse/                     <<< ----------------------------------------|     
+|   └── main.cpp
 
 ├── include folder/
 
@@ -10,17 +11,15 @@ OPencvcourse/                     <<< ----------------------------------------|
 
 │   └── ImageProcessor.hpp
 
-│   └── QRCodeHandler.hpp
+│   └── QRCode.hpp
 
 ├── src folder/
-
-│   └── main.cpp
 
 │   └── EdgeDetector.cpp
 
 │   └── ImageProcessor.cpp
 
-│   └── QRCodeHandler.cpp
+│   └── QRCode.cpp
 
 
 └── imagesfolder/
