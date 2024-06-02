@@ -50,7 +50,14 @@ The `edge_detection.cpp` application detects edges in an input image using the C
 ### Usage
 To use the edge detection application:
 1. Compile & run the code using a C++ compiler with OpenCV installed.
-2. Output .
+2. Input:
+
+   ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/5f087633-4ea0-4eae-8bae-2f07cae9d3bd)
+
+4. Output :
+
+   ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/9d8ff109-cd92-46f6-b49f-79b7d76aae21)
+
   ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/39a4a6ce-e518-4637-a080-67a306b790b4)
 
 
@@ -62,7 +69,14 @@ The `blur_image.cpp` application applies Gaussian blur to an input image. It tak
 ### Usage
 To use the image blurring application:
 1. Compile and run the code using a C++ compiler with OpenCV installed.
-2. Output .
+2. Input:
+3. 
+   ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/52b8d4c3-3121-483c-81d4-661966fe1b0e)
+
+4. Output :
+   ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/9e436255-d06a-45cb-baa0-946f3af99709)
+   
+
    ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/e0e77710-f3c9-4e10-97be-b71c84fc2f73)
 
 
