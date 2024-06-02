@@ -1,8 +1,8 @@
-Project structure in  my local system  .         To see docker way implementation follow this link  [Docker](#Doker)
+Production level Project structure in  my local system  .              To see docker way implementation follow this link  [Docker](#Doker)
+                                           |
+OPencvcourse/                      < ------|
 
-OPencvcourse/
-
-├── include/
+├── include folder/
 
 │   └── EdgeDetector.hpp
 
@@ -10,7 +10,7 @@ OPencvcourse/
 
 │   └── QRCodeHandler.hpp
 
-├── src/
+├── src folder/
 
 │   └── main.cpp
 
@@ -19,7 +19,7 @@ OPencvcourse/
 │   └── ImageProcessor.cpp
 
 │   └── QRCodeHandler.cpp
-└── images/
+└── imagesfolder/
 
     └── input.jpg
     
