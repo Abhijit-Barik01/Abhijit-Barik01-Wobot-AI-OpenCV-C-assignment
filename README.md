@@ -2,16 +2,26 @@ Project structure in  my local system  . To see docker way implementation follow
 WobotAIOpenCV/
 
 ├── include/
+
 │   └── EdgeDetector.hpp
+
 │   └── ImageProcessor.hpp
+
 │   └── QRCodeHandler.hpp
+
 ├── src/
+
 │   └── main.cpp
+
 │   └── EdgeDetector.cpp
+
 │   └── ImageProcessor.cpp
+
 │   └── QRCodeHandler.cpp
 └── images/
+
     └── input.jpg
+    
     └── Qr.png
   
     
