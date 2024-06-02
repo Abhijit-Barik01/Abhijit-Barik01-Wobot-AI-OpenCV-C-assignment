@@ -1,6 +1,8 @@
-Production level Project structure in  my local system  .              To see docker way implementation follow this link  [Docker](#Doker)
-                                           |
-OPencvcourse/                      < ------|
+* Production level Project structure in  my local system  .        -> To see docker way implementation follow this link  [Docker](#docker)
+  
+                                           
+                                           
+OPencvcourse/                     <<< ----------------------------------------|                                                   
 
 ├── include folder/
 
@@ -19,6 +21,8 @@ OPencvcourse/                      < ------|
 │   └── ImageProcessor.cpp
 
 │   └── QRCodeHandler.cpp
+
+
 └── imagesfolder/
 
     └── input.jpg
@@ -26,9 +30,6 @@ OPencvcourse/                      < ------|
     └── Qr.png
   
     
-
-
----
 
 # OpenCV C++ Applications
 
@@ -79,6 +80,12 @@ To use the QR code detection application:
 
 
 ## Docker
+ Rebuild the Docker image:
+ docker build -t opencv_cpp_app .
+ 
+ Run the Docker container:
+ docker run -v $(pwd)/images:/app/images -it opencv_cpp_app
+
 
 
 ---
