@@ -8,7 +8,7 @@ int main() {
 
 
     std::string inputImagePath = "images/Ratan-Tata.jpg";
-    std::string  inputQRImage = "images/QRimage.png";
+    std::string  inputQRImage = "images/Qrimage.png";
     std::string edgedOutputImagePath = "images/Ratan-TataEdgedOutput.jpg";
     std::string blurOutputImagePath ="images/Ratan-TataBlurOutput.jpg";
 

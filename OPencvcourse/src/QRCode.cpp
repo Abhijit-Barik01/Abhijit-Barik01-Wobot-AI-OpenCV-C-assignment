@@ -16,8 +16,7 @@ bool QRCode::decodeQRCode(const std::string& inputImagePath) {
     std::string data = qrDecoder.detectAndDecode(image, bbox, rectifiedImage);
 
     if (data.length() > 0) {
-        std::cout << "\n Decoded Data of QR code. \t" << std::endl;
-        std::cout<< " QR code holds data = >" << data << std::endl;
+        std::cout << "\n Decoded Data of QR code \t" << " QR code  holds data = >" << data << std::endl;
         return true;
     }
     else {
