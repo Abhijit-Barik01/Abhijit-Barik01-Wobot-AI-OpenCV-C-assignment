@@ -84,14 +84,14 @@ To use the QR code detection application:
 
 
 ## Dockerized Appilication
-Pull this docker image from docker hub:
+* Pull this docker image from docker hub:
 
 docker pull avijit1963/wobotai12.cppopencv:latest
 
-Run docker container:
+* Run docker container:
 
 docker run -v $(pwd)/images:/app/images -it avijit1963/wobotai12.cppopencv:latest
-Verify Docker Volume Mounting:
+* Verify Docker Volume Mounting:
 When you run the Docker container with -v $(pwd)/images:/app/images, it mounts the local images directory to the container's /app/images directory. Make sure the images are accessible within the container
 
 
