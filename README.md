@@ -1,5 +1,6 @@
-Project structure in  my local system  . To see docker way implementation follow this link
-WobotAIOpenCV/
+Project structure in  my local system  .         To see docker way implementation follow this link  [Docker](#Doker)
+
+OPencvcourse/
 
 ├── include/
 
@@ -73,6 +74,11 @@ To use the QR code detection application:
 1. Compile and run the code using a C++ compiler with OpenCV installed.
 2. Output.
  ![image](https://github.com/Abhijit-Barik01/Abhijit-Barik01-Wobot-AI-OpenCV-C-assignment/assets/71961635/faf16852-dc4b-403f-8d69-6630008ad30e)
+
+
+
+
+## Docker
 
 
 ---
